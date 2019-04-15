@@ -1,1 +1,1 @@
-# git-practice-2
+# Git Tutorial 2 :)
